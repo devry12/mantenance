@@ -5,6 +5,9 @@
         <item>
             <title>Maintenance</title>
             <status>true</status>
+            <subtitle>Maaf atas ketidaknyamanan yang kamu alami..</subtitle>
+            <description>SejutaCita sedang melakukan maintenance rutin dan akan segera dapat digunakan seperti semula.</description>
+            <ending>Terima kasih atas kesabarannya menunggu.</ending>
         </item>
     </channel>
 </rss>
